@@ -1,2 +1,5 @@
 # suqi.github.io
-an eastlakeside hacker
+site of an eastlakeside hacker
+
+## local demo
+`bundle exec jekyll serve`
