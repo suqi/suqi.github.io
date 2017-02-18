@@ -1,12 +1,11 @@
-# suqi.github.io
-site of an eastlakeside hacker
+# mattsu的博客
+eastlakeside maker
+http://eastlakeside.com
 
 ## local demo
+`bundle install`
 `bundle exec jekyll serve`
 
-# 码志
-
-我的个人博客：<http://mazhuang.org>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -77,8 +76,8 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 * 可以学习一下那些高质量的博主，他们的行文，内容组织方式，有什么值得借鉴的地方。
 
 ## 致谢
+本博客代码基于码志(马壮的个人博客)：<http://mazhuang.org>, 感谢!
 
-本博客外观基于 [DONGChuan](http://dongchuan.github.io) 修改，感谢！
 
 [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/

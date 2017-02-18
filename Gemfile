@@ -1,8 +1,10 @@
-source "https://rubygems.org"
-ruby RUBY_VERSION
+source "https://rubygems.org" 
+# source "https://gems.ruby-china.org/"  # 本地安装时临时使用
 
+gem 'github-pages', '>=104', group: :jekyll_plugins
 
 # ------ below is default ---------
+# ruby RUBY_VERSION
 # # Hello! This is where you manage which Jekyll version is used to run.
 # # When you want to use a different version, change it below, save the
 # # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
