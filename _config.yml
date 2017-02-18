@@ -39,16 +39,16 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mattsu.eastlakeside.com
+url: http://eastlakeside.com
 date_format: "ordinal"
 title: Matt Su
-subtitle: "dpmaker: Beautiful Things on Beautiful Technology"
-description: "马特苏的个人博客"
-keywords: Matt Su, 马特苏, suqi, dpmaker
+subtitle: "Beautiful Things on Beautiful Tech"
+description: "mattsu大牙马特的个人博客"
+keywords: Matt Su, 大牙马特, 马特苏, suqi, dpmaker, qisuker
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 5
+side_bar_repo_limit: 3
 
 # ---------------- #
 #      Author      #
