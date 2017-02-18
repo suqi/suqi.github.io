@@ -1,9 +1,10 @@
-# mattsu的博客
-eastlakeside maker
-http://eastlakeside.com
+# mattsu大牙马特的博客
+- **[进入阅读 &rarr;](http://eastlakeside.com)**
+- 也可以Fork这份代码用来作为你的github-pages模板
 
 ## local demo
-`bundle install`
+- 使用jekyll在本地测试
+`bundle install`  
 `bundle exec jekyll serve`
 
 
@@ -19,8 +20,6 @@ http://eastlakeside.com
 <!-- vim-markdown-toc -->
 
 ## 效果预览
-
-**[在线预览 &rarr;](http://mazhuang.org)**
 
 ![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
 
