@@ -41,10 +41,10 @@
 baseurl:
 url: http://eastlakeside.com
 date_format: "ordinal"
-title: Matt Su
+title: matt su
 subtitle: "a maker: 一个创作者"
 description: "mattsu大牙马特的个人博客"
-keywords: Matt Su, 大牙马特, 马特苏, suqi, dpmaker, qisuker
+keywords: matt su, 大牙马特, 马特苏, suqi, dpmaker, qisuker
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -65,15 +65,16 @@ email: matt.su@eastlakeside.com
 navs:
   -
     href: /
-    label: 首页
-
-  -
-    href: /categories/
-    label: 分类
+    label: home
 
   -
     href: /about/
-    label: 关于
+    label: about
+
+  # -
+  #   href: /categories/
+  #   label: 分类
+
 
 # ---------------- #
 #       RSS        #

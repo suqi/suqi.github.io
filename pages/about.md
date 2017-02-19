@@ -9,7 +9,7 @@ permalink: /about/
 ---
 
 Hi there, I'm Matt Su.
-This blog is about Zen & Python
+This blog is about `Startup, Zen & Python`
 
 <div class="collection-info">
     <span class="meta-info mobile-hidden">
