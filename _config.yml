@@ -41,8 +41,8 @@
 baseurl:
 url: http://eastlakeside.com
 date_format: "ordinal"
-title: matt su
-subtitle: "a maker: 一个创作者"
+title: Matt Su
+subtitle: "A Maker, with Zen and Python."
 description: "mattsu大牙马特的个人博客"
 keywords: matt su, 大牙马特, 马特苏, suqi, dpmaker, qisuker
 favicon: /favicon.ico
@@ -94,7 +94,7 @@ quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
 gems:
-    - jekyll-github-metadata
+    # - jekyll-github-metadata
     - rouge
 #     - jekyll-html-pipeline
     # - jekyll-paginate

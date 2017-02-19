@@ -1,12 +1,12 @@
-# mattsu大牙马特的博客
+# 大牙码特(Matt Su)的博客源码
 - **[进入阅读 &rarr;](http://eastlakeside.com)**
 - 也可以Fork这份代码用来作为你的github-pages模板
 
-## local demo
-- 使用jekyll在本地测试
-`bundle install`  
-`bundle exec jekyll serve`
-
+## 使用jekyll在本地测试
+```shell
+bundle install
+bundle exec jekyll serve
+```
 
 ## 概览
 
