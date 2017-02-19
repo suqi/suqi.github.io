@@ -42,7 +42,7 @@ baseurl:
 url: http://eastlakeside.com
 date_format: "ordinal"
 title: Matt Su
-subtitle: "Beautiful Things on Beautiful Tech"
+subtitle: "Zen&Python: Beautiful Things on Beautiful Tech"
 description: "mattsu大牙马特的个人博客"
 keywords: Matt Su, 大牙马特, 马特苏, suqi, dpmaker, qisuker
 favicon: /favicon.ico
@@ -54,8 +54,8 @@ side_bar_repo_limit: 3
 #      Author      #
 # ---------------- #
 author: Matt Su
-organization: Seasun.
-organization_url: https://www.xishanju.com
+organization: Seasun
+# organization_url: https://www.xishanju.com
 location: Zhuhai, China
 email: matt.su@eastlakeside.com
 
@@ -70,14 +70,6 @@ navs:
   -
     href: /categories/
     label: 分类
-
-  -
-    href: /wiki/
-    label: 维基
-
-  -
-    href: /links/
-    label: 链接
 
   -
     href: /about/
