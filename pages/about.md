@@ -8,8 +8,27 @@ menu: 关于
 permalink: /about/
 ---
 
-Hi there, 我是大牙mattsu。
+Hi there, I'm Matt Su.
+This blog is about Zen & Python
 
+<div class="collection-info">
+    <span class="meta-info mobile-hidden">
+        <span class="octicon octicon-location"></span>
+        {{ site.location }}
+    </span>
+    <span class="meta-info">
+        <span class="octicon octicon-organization"></span>
+        {{ site.organization }}
+    </span>
+     <span class="meta-info">
+        <span class="octicon octicon-mark-github"></span>
+        <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a>
+    </span>
+</div>
+
+## 我的作品
+- 译作[<<Python进阶>>](http://interpy.eastlakeside.com/)
+	- 这是一本和小伙伴们一起用心翻译的良心之作
 
 ## 联系
 
