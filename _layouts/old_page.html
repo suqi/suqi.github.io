@@ -17,23 +17,22 @@ layout: default
 </section>
 <!-- / .banner -->
  <section class="container content">
-        <article class="article-content markdown-body">
-            {{ content }}
-        </article>
-        <div class="share">
-            {% include sns-share.html %}
-        </div>
-        <div class="comment">
-            {% include comments.html %}
-        </div>
-
-        <!-- <div class="columns">
+        <div class="columns">
             <div class="column two-thirds" >
+                <article class="article-content markdown-body">
+                    {{ content }}
+                </article>
+                <div class="share">
+                    {% include sns-share.html %}
+                </div>
+                <div class="comment">
+                    {% include comments.html %}
+                </div>
             </div>
             <div class="column one-third">
                 {% include sidebar-search.html %}
                 {% include sidebar-popular-repo.html %}
             </div>
-        </div> -->
+        </div>
     </section>
     <!-- /section.content -->
