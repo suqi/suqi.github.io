@@ -8,7 +8,9 @@ menu: 关于
 permalink: /about/
 ---
 
+
 Hi there, I'm Matt Su.
+
 This blog is about `Startup, Zen & Python`
 
 <div class="collection-info">
@@ -25,6 +27,10 @@ This blog is about `Startup, Zen & Python`
         <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a>
     </span>
 </div>
+
+---
+
+> 站在科技与人文的十字路口，眺望自然主义与实用哲学的交汇时空
 
 ## 我的作品
 - 译作[<<Python进阶>>](http://interpy.eastlakeside.com/)
