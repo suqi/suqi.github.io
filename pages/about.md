@@ -42,12 +42,18 @@ This blog is about `Startup, Zen & Python`
 - 基于[马壮的博客](https://github.com/mzlogin/mzlogin.github.io)进行修改
     - 修改方向主要是让站点更扁平化, 专注于内容, 而不是绚烂的eyecandy
 
-## 联系
+## 对此博客的建议
+- 请在[本博客的github仓库](github.com/suqi/suqi.github.io)提交issue
+- 请猛烈地批评建议, 或者是说说你的任何想法
+
+## 联系我
 
 * GitHub：[@suqi](https://github.com/suqi)
 * LinkedIn：[@mattsu](https://www.linkedin.com/in/mattsu)
 * 博客：[{{ site.title }}]({{ site.url }})
 * V2EX: [@qisuker](https://www.v2ex.com/member/qisuker)
+
+## 我喜欢的几个博客
 
 ## Skill Keywords
 
