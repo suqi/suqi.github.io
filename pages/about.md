@@ -36,6 +36,12 @@ This blog is about `Startup, Zen & Python`
 - 译作[<<Python进阶>>](http://interpy.eastlakeside.com/)
 	- 这是一本和小伙伴们一起用心翻译的良心之作
 
+## 此博客的构建
+- 使用jekyll静态博客引擎
+- 使用github-pages自build
+- 基于[马壮的博客](https://github.com/mzlogin/mzlogin.github.io)进行修改
+    - 修改方向主要是让站点更扁平化, 专注于内容, 而不是绚烂的eyecandy
+
 ## 联系
 
 * GitHub：[@suqi](https://github.com/suqi)
