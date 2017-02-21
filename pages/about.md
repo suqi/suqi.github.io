@@ -8,29 +8,33 @@ menu: 关于
 permalink: /about/
 ---
 
-
-Hi there, I'm Matt Su.
-
-This blog is about `Startup, Zen & Python`
-
 <div class="collection-info">
     <span class="meta-info mobile-hidden">
         <span class="octicon octicon-location"></span>
-        {{ site.location }}
+        {{ site.location }} 
     </span>
     <span class="meta-info">
         <span class="octicon octicon-organization"></span>
-        {{ site.organization }}
+        {{ site.organization }} 
     </span>
      <span class="meta-info">
         <span class="octicon octicon-mark-github"></span>
         <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a>
     </span>
 </div>
+<br>
 
----
+Hi there, I'm **Matt Su**. 
 
-> 站在科技与人文的十字路口，眺望自然主义与实用哲学的交汇时空
+This is my personal blog, mainly about `Startup, Zen & Python`
+
+plus `software engineering, life-long learning & writing`
+
+## Philosophy
+- 站在科技与人文的十字路口，眺望自然主义与实用哲学的交汇时空, 
+- Sync up new tech ideas across world, for fun and love.
+
+
 
 ## 我的作品
 - 译作[<<Python进阶>>](http://interpy.eastlakeside.com/)
@@ -43,7 +47,7 @@ This blog is about `Startup, Zen & Python`
     - 修改方向主要是让站点更扁平化, 专注于内容, 而不是绚烂的eyecandy
 
 ## 对此博客的建议
-- 请在[本博客的github仓库](github.com/suqi/suqi.github.io)提交issue
+- 请在[本博客的github仓库](https://github.com/suqi/suqi.github.io/issues)提交issue
 - 请猛烈地批评建议, 或者是说说你的任何想法
 
 ## 联系我
@@ -54,6 +58,13 @@ This blog is about `Startup, Zen & Python`
 * V2EX: [@qisuker](https://www.v2ex.com/member/qisuker)
 
 ## 我喜欢的几个博客
+- [湾区日报](https://wanqu.co/)
+    - 感觉这个硅谷的工程师有股韧劲, 独立把这个小side-project运营起来了
+    - 难的是, 能一直当成side-project来做, 从而不忘初心
+    - maker的榜样
+- [overtrue](https://github.com/overtrue/overtrue.github.io)和[马壮](http://mazhuang.org)
+    - 他俩的博客样式我比较喜欢, 于是借鉴过来了
+
 
 ## Skill Keywords
 
