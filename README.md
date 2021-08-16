@@ -1,6 +1,8 @@
-# 大牙码特(Matt Su)的博客源码
-- **[进入阅读 &rarr;](http://eastlakeside.com)**
+# 欢迎大牙码特(Matt Su)的博客源码
+- **进入博客首页 &rarr; ** [suqi.github.io](https://suqi.github.io/)
 - 也可以Fork这份代码用来作为你的github-pages模板
+
+# 以下是如何使用本博客源码作为模板来构建你自己的博客
 
 ## 使用jekyll在本地测试
 ```shell
