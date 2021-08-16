@@ -39,11 +39,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://eastlakeside.com
+url: https://suqi.github.io/
 date_format: "ordinal"
 title: Matt Su
 subtitle: "A Maker, with Zen and Python."
-description: "mattsu大牙马特的个人博客"
+description: "大牙马特(Matt Su)的个人博客"
 keywords: matt su, 大牙马特, 马特苏, suqi, dpmaker, qisuker
 favicon: /favicon.ico
 timezone: Asia/Shanghai
@@ -54,10 +54,10 @@ side_bar_repo_limit: 3
 #      Author      #
 # ---------------- #
 author: Matt Su
-organization: Seasun
+organization: EastLakeSide
 # organization_url: https://www.xishanju.com
 location: Zhuhai, China
-email: matt.su@eastlakeside.com
+email: matt.su@foxmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -67,8 +67,8 @@ navs:
     href: /
     label: home
   -
-    href: http://interpy.eastlakeside.com
-    label: 《Python进阶》
+    href: https://eastlakeside.gitbook.io/interpy-zh/
+    label: 良心译作《Python进阶》
     target: _blank
   -
     href: /about/
