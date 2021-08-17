@@ -41,8 +41,8 @@
 baseurl:
 url: https://suqi.github.io/
 date_format: "ordinal"
-title: Matt Su
-subtitle: "大牙马特(Matt Su)的博客"
+title: 大牙马特在东滨社
+subtitle: "大牙马特(Matt Su)@EastLakeSide"
 description: "EastLakeSide东滨社 - 自由，创作，读书，健身的国际创意合作社"
 keywords: matt su, 大牙马特, 马特苏, suqi, dpmaker, qisuker
 favicon: /favicon.ico
@@ -55,7 +55,7 @@ side_bar_repo_limit: 3
 # ---------------- #
 author: Matt Su
 organization: EastLakeSide
-# organization_url: https://www.xishanju.com
+organization_url: https://github.com/eastlakeside
 location: Zhuhai, China
 email: matt.su@foxmail.com
 
@@ -69,14 +69,6 @@ navs:
   -
     href: https://eastlakeside.gitbook.io/interpy-zh/
     label: 译作《Python进阶》
-    target: _blank
-  -
-    href: https://github.com/eastlakeside
-    label: 东滨社项目
-    target: _blank
-  -
-    href: https://github.com/suqi
-    label: 个人项目
     target: _blank
   -
     href: /about/
@@ -118,7 +110,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: suqi/suqi.github.io
+repository: suqi/
 
 # ---------------- #
 #      Socials     #
