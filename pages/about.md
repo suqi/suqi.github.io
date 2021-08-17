@@ -12,11 +12,12 @@ permalink: /about/
     <span class="meta-info">
         <span class="octicon octicon-organization"></span>
         <a href="{{ site.organization_url }}" target="_blank">组织项目Repo：{{ site.organization }} </a>
-    </span>
+    </span><br>
+
      <span class="meta-info">
         <span class="octicon octicon-mark-github"></span>
         <a href="https://github.com/{{ site.github_username }}" target="_blank">个人项目Repo：{{ site.github_username }}</a>
-    </span>
+    </span><br>
     <span class="meta-info mobile-hidden">
         <span class="octicon octicon-location"></span>
         我生活在：{{ site.location }} 
