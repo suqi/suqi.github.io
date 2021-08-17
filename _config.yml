@@ -68,15 +68,15 @@ navs:
     label: 主页
   -
     href: https://eastlakeside.gitbook.io/interpy-zh/
-    label: 良心译作《Python进阶》
+    label: 译作《Python进阶》
     target: _blank
   -
     href: https://github.com/eastlakeside
-    label: EastLakeSide合作组织的Github
+    label: 东滨社项目
     target: _blank
   -
     href: https://github.com/suqi
-    label: 我的个人Github
+    label: 个人项目
     target: _blank
   -
     href: /about/
