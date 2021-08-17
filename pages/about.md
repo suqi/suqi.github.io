@@ -9,24 +9,27 @@ permalink: /about/
 ---
 
 <div class="collection-info">
-    <span class="meta-info mobile-hidden">
-        <span class="octicon octicon-location"></span>
-        {{ site.location }} 
-    </span>
     <span class="meta-info">
         <span class="octicon octicon-organization"></span>
-        {{ site.organization }} 
+        <a href="{{ site.organization_url }}" target="_blank">组织项目Repo：{{ site.organization }} </a>
     </span>
      <span class="meta-info">
         <span class="octicon octicon-mark-github"></span>
-        <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a>
+        <a href="https://github.com/{{ site.github_username }}" target="_blank">个人项目Repo：{{ site.github_username }}</a>
+    </span>
+    <span class="meta-info mobile-hidden">
+        <span class="octicon octicon-location"></span>
+        我生活在：{{ site.location }} 
     </span>
 </div>
 <br>
 
-Hi there, I'm **Matt Su**. 
+Hi there, I'm **Matt Su** (aka, 大牙马特). 
+
 我是EastLakeSide东滨社的发起人（关于EastLakeSide东滨社 - 自由，创作，读书，健身的国际创意合作社）
+
 这里是我的博客，我主要关注 `Startup, Zen & Python`，以及 `software engineering, life-long learning & writing`。
+
 同时EastLakeSide合作社的一些新进展也会在这里公布。
 
 
