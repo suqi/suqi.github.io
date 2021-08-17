@@ -42,8 +42,8 @@ baseurl:
 url: https://suqi.github.io/
 date_format: "ordinal"
 title: 大牙马特在东滨社
-subtitle: "EastLakeSide 东滨社 - 自由，创作，读书，健身的国际创意合作社"
-description: "EastLakeSide东滨社 - 自由，创作，读书，健身的国际创意合作社"
+subtitle: "EastLakeSide 东滨社 - 自由，创作，学习，投资的国际创意合作社"
+description: "EastLakeSide东滨社 - 自由，创作，读书的国际创意合作社"
 keywords: matt su, 大牙马特, 马特苏, suqi, dpmaker, qisuker
 favicon: /favicon.ico
 timezone: Asia/Shanghai
