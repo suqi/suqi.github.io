@@ -25,10 +25,10 @@ permalink: /about/
 <br>
 
 Hi there, I'm **Matt Su**. 
+我是EastLakeSide东滨社的发起人（关于EastLakeSide东滨社 - 自由，创作，读书，健身的国际创意合作社）
+这里是我的博客，我主要关注 `Startup, Zen & Python`，以及 `software engineering, life-long learning & writing`。
+同时EastLakeSide合作社的一些新进展也会在这里公布。
 
-This is my personal blog, mainly about `Startup, Zen & Python`
-
-plus `software engineering, life-long learning & writing`
 
 ## Philosophy
 - 站在科技与人文的十字路口，眺望自然主义与实用哲学的交汇时空, 
@@ -51,11 +51,10 @@ plus `software engineering, life-long learning & writing`
 - 请猛烈地批评建议, 或者是说说你的任何想法
 
 ## 联系我
-
-* GitHub：[@suqi](https://github.com/suqi)
-* LinkedIn：[@mattsu](https://www.linkedin.com/in/mattsu)
-* 博客：[{{ site.title }}]({{ site.url }})
-* V2EX: [@qisuker](https://www.v2ex.com/member/qisuker)
+* LinkedIn：[@mattsu](https://www.linkedin.com/in/mattsu)，这里可以看到我的履历
+* GitHub：[@suqi](https://github.com/suqi)，这里有我的所有项目
+* 博客：[{{ site.title }}]({{ site.url }})，这有里有我所有公开的分享
+* V2EX: [@qisuker](https://www.v2ex.com/member/qisuker)，这里有我在V站的问答
 
 ## 我喜欢的几个博客
 - [湾区日报](https://wanqu.co/)

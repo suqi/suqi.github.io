@@ -42,8 +42,8 @@ baseurl:
 url: https://suqi.github.io/
 date_format: "ordinal"
 title: Matt Su
-subtitle: "A Maker, with Zen and Python."
-description: "大牙马特(Matt Su)的个人博客"
+subtitle: "大牙马特(Matt Su)的博客"
+description: "EastLakeSide东滨社 - 自由，创作，读书，健身的国际创意合作社"
 keywords: matt su, 大牙马特, 马特苏, suqi, dpmaker, qisuker
 favicon: /favicon.ico
 timezone: Asia/Shanghai
@@ -65,14 +65,22 @@ email: matt.su@foxmail.com
 navs:
   -
     href: /
-    label: home
+    label: 主页
   -
     href: https://eastlakeside.gitbook.io/interpy-zh/
     label: 良心译作《Python进阶》
     target: _blank
   -
+    href: https://github.com/eastlakeside
+    label: EastLakeSide合作组织的Github
+    target: _blank
+  -
+    href: https://github.com/suqi
+    label: 我的个人Github
+    target: _blank
+  -
     href: /about/
-    label: about
+    label: 关于
 
   # -
   #   href: /categories/
