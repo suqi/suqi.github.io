@@ -41,8 +41,8 @@
 baseurl:
 url: https://suqi.github.io/
 date_format: "ordinal"
-title: 大牙马特在东滨社
-subtitle: "EastLakeSide 东滨社 - 自由，创作，学习，投资的创意合作社"
+title: 老苏 @ EastLakeSide
+subtitle: "东滨社 - 自由，创作，学习，投资的创意合作社"
 description: "EastLakeSide东滨社 - 自由，创作，读书的创意合作社"
 keywords: matt su, 大牙马特, 马特苏, suqi, dpmaker, qisuker
 favicon: /favicon.ico
@@ -67,7 +67,7 @@ navs:
     href: /
     label: 主页
   -
-    href: https://eastlakeside.gitbook.io/interpy-zh/
+    href: https://py.eastlakeside.cn
     label: 译作《Python进阶》
     target: _blank
   -
@@ -105,10 +105,10 @@ gems:
     - jekyll-feed
     - jemoji
 #     - jekyll-mentions
-collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
+# collections:
+#     wiki:
+#         output: true
+#         permalink: /wiki/:path/
 
 repository: suqi/
 
@@ -143,7 +143,7 @@ twitter_username: dphacker
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Python, Django, Celery, Vue.js, Bootstrap]
+skill_software_keywords: [Productivity, Python, Django, Celery, Vue.js, Bootstrap]
 
 
 
