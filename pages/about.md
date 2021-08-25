@@ -10,13 +10,14 @@ permalink: /about/
 
 大家好， 我是 **老苏** (aka, Matt, 大牙马特). 
 
-这里是我的博客，我主要关注 `Startup, Zen & Python`，以及 `software engineering, life-long learning & writing`。
+> 东坡黑客 = 认知Hack + 生活Hack + 财富Hack
+> 以黑客的角度来实现身心富足，用简单的技术方法来科学地Hack看似复杂的人生问题：认知升级->人生进阶->财富自由。
 
-这里与我的个人公众号`东坡黑客`的不同地方在于方便检索，以前所有的文章都能方便地搜索和查看到，不会像微信那样只能看最新的文章，看旧文章老费劲。
+我是一枚前腾讯金山虾皮平安的复合型程序员(主管)，通过挨踢互联网七进七出实现了原始积累，通过投融资实现了财富有点自由。现在开了个公众号（`东坡黑客`），分享一些有趣的故事，跟大家聊聊天，互相交流。
 
 
 ## Philosophy
-- 站在科技与人文的十字路口，眺望自然主义与实用哲学的交汇时空, 
+- 站在科技与人文的十字路口，眺望自然主义与实用哲学的交汇时空，
 - Sync up new tech ideas across world, for fun and love.
 
 
@@ -27,9 +28,9 @@ permalink: /about/
 
 
 ## 联系我
+* 个人主页：[{{ site.title }}]({{ site.url }})，这有里有我所有公开的分享
 * LinkedIn：[@mattsu](https://www.linkedin.com/in/mattsu)，这里可以看到我的履历
 * GitHub：[@suqi](https://github.com/suqi)，这里有我的所有项目
-* 博客：[{{ site.title }}]({{ site.url }})，这有里有我所有公开的分享
 * V2EX: [@qisuker](https://www.v2ex.com/member/qisuker)，这里有我在V站的问答
 
 ## 对此博客的建议
