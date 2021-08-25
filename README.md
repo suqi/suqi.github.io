@@ -77,8 +77,8 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 * 可以学习一下那些高质量的博主，他们的行文，内容组织方式，有什么值得借鉴的地方。
 
 ## 致谢
-本博客代码基于码志(马壮的个人博客)：<http://mazhuang.org>, 感谢!
-
+本博客代码基于[马壮的博客](https://github.com/mzlogin/mzlogin.github.io)进行修改, 感谢!
+   - 修改方向主要是让站点更扁平化, 专注于内容, 而不是绚烂的eyecandy
 
 [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
