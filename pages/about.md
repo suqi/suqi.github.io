@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: Beautiful Things on Beautiful Tech.
-keywords: Matt Su, 苏琦
+keywords: Matt Su, 苏琦, 东坡黑客
 comments: true
 menu: 关于
 permalink: /about/
@@ -25,13 +25,10 @@ permalink: /about/
 </div>
 <br>
 
-Hi there, I'm **Matt Su** (aka, 大牙马特). 
-
-我是EastLakeSide东滨社的发起人（关于EastLakeSide东滨社 - 自由，创作，读书，健身的国际创意合作社）
+大家好， 我是 **老苏** (aka, Matt, 大牙马特). 
 
 这里是我的博客，我主要关注 `Startup, Zen & Python`，以及 `software engineering, life-long learning & writing`。
-
-同时EastLakeSide合作社的一些新进展也会在这里公布。
+这里与我的个人公众号`东坡黑客`的不同地方在于方便检索，以前所有的文章都能方便地搜索和查看到，不会像微信那样只能看最新的文章，看旧文章老费劲。
 
 
 ## Philosophy
@@ -41,14 +38,9 @@ Hi there, I'm **Matt Su** (aka, 大牙马特).
 
 
 ## 我的作品
+- 我的公众号：<东坡黑客>，以黑客的角度来实现身心富足。
 - 译作[<<Python进阶>>](http://interpy.eastlakeside.com/)
 	- 这是一本和小伙伴们一起用心翻译的良心之作
-
-## 此博客的构建
-- 使用jekyll静态博客引擎
-- 使用github-pages自build
-- 基于[马壮的博客](https://github.com/mzlogin/mzlogin.github.io)进行修改
-    - 修改方向主要是让站点更扁平化, 专注于内容, 而不是绚烂的eyecandy
 
 ## 对此博客的建议
 - 请在[本博客的github仓库](https://github.com/suqi/suqi.github.io/issues)提交issue
@@ -77,3 +69,10 @@ Hi there, I'm **Matt Su** (aka, 大牙马特).
     <button class="btn btn-outline" type="button">{{ keyword }}</button>
     {% endfor %}
 </div>
+
+#### 此博客的构建
+- 使用jekyll静态博客引擎
+- 使用github-pages自build
+- 基于[马壮的博客](https://github.com/mzlogin/mzlogin.github.io)进行修改
+    - 修改方向主要是让站点更扁平化, 专注于内容, 而不是绚烂的eyecandy
+
