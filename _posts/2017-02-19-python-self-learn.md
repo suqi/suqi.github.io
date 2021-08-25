@@ -47,7 +47,7 @@ keywords: python, 自学, 资源
 - [Django官方文档](https://docs.djangoproject.com/)  相对于其他技术来说，django的官方文档是可读性非常好的，推荐阅读
 
 ## 5. 后续对Python的进一步学习
-- [《Python进阶》](http://interpy.eastlakeside.com/) 是我参与的用心翻译的一本书, 很不错
+- [《Python进阶》](http://py.eastlakeside.cn/) 是我参与的用心翻译的一本书, 很不错
 - [《Fluent Python》](https://github.com/fluentpython/example-code) 这本书评价很高, 值得学习
 
 ---

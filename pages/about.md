@@ -23,15 +23,20 @@ permalink: /about/
 
 ## 我的作品
 - 我的公众号：<东坡黑客>，以黑客的角度来实现身心富足。
-- 译作[<<Python进阶>>](http://interpy.eastlakeside.com/)
-	- 这是一本和小伙伴们一起用心翻译的良心之作
+- 译作[《《Python进阶》》](http://py.eastlakeside.cn/)
+	- 这是一本和社区小伙伴们一起用心翻译的良心之作
 
 
 ## 联系我
-* 个人主页：[{{ site.title }}]({{ site.url }})，这有里有我所有公开的分享
-* LinkedIn：[@mattsu](https://www.linkedin.com/in/mattsu)，这里可以看到我的履历
-* GitHub：[@suqi](https://github.com/suqi)，这里有我的所有项目
-* V2EX: [@qisuker](https://www.v2ex.com/member/qisuker)，这里有我在V站的问答
+* 个人主页：<https://eastlakeside.cn>
+    - 这有里有我所有公开的分享
+* LinkedIn：[@mattsu](https://www.linkedin.com/in/mattsu)
+    - 这里可以看到我的履历
+* GitHub：[@suqi](https://github.com/suqi)
+    - 这里有我的所有项目
+* V2EX: [@qisuker](https://www.v2ex.com/member/qisuker)
+    - 这里有我在V站的问答
+
 
 ## 对此博客的建议
 - 请在[本博客的github仓库](https://github.com/suqi/suqi.github.io/issues)提交issue
