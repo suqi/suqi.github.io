@@ -1,3 +1,11 @@
+---
+layout: post
+title: 生产力是如何让一个人致富的
+categories: [Hack财富, Hack生产力]
+description: 
+keywords: 身心富足， 软件工程师， 创业
+---
+
 # 生产力是如何让一个人致富的
 
 ### 一）被误解的生产力
