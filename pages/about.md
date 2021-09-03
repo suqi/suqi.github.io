@@ -8,21 +8,28 @@ menu: 关于
 permalink: /about/
 ---
 
-大家好， 我是 **老苏** (aka, Matt, 大牙马特). 
+大家好， 我是 **老苏** (aka, Matt, 大牙马特)，
+
+
+我是一枚前腾讯金山虾皮平安的软件工程师，在挨踢互联网各大厂七进七出实现了原始积累，致力于代码之外实现身心富足。
+
+我是一个长期的公众号博主（`东坡黑客`），分享一些有趣的故事，跟大家聊聊天，互相交流。欢迎关注我：
+![](https://mmbiz.qpic.cn/mmbiz_jpg/PA0zahD84YRicvsODicvL2gyeSbYicz5uYqQnX4By0Ypq31mWydbExRLRciayR0Hp2fiay7UBw6rHaJGfGsdeSAt46g/0?wx_fmt=jpeg)
+
 
 > 东坡黑客 = 认知Hack + 生活Hack + 财富Hack
 > 以黑客的角度来实现身心富足，用简单的技术方法来科学地Hack看似复杂的人生问题：认知升级->人生进阶->财富自由。
 
-我是一枚前腾讯金山虾皮平安的复合型程序员(主管)，在挨踢互联网各大厂七进七出实现了原始积累，通过投融资实现了财富有点自由。现在开了个公众号（`东坡黑客`），分享一些有趣的故事，跟大家聊聊天，互相交流。
 
 
-## Philosophy
+
+## 我的创作哲学
 - 站在科技与人文的十字路口，眺望自然主义与实用哲学的交汇时空，
 - Sync up new tech ideas across world, for fun and love.
 
 
 ## 我的作品
-- 我的公众号：<东坡黑客>，以黑客的角度来实现身心富足。
+- 我的公众号：<东坡黑客>，以黑客精神来实现身心富足。
 - 译作[《《Python进阶》》](http://py.eastlakeside.cn/)
 	- 这是一本和社区小伙伴们一起用心翻译的良心之作
 
