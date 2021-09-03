@@ -13,8 +13,11 @@ permalink: /about/
 
 我是一枚前腾讯金山虾皮平安的软件工程师，在挨踢互联网各大厂七进七出实现了原始积累，致力于代码之外实现身心富足。
 
-我是一个长期的公众号博主（`东坡黑客`），分享一些有趣的故事，跟大家聊聊天，互相交流。欢迎关注我：
-![](https://mmbiz.qpic.cn/mmbiz_jpg/PA0zahD84YRicvsODicvL2gyeSbYicz5uYqQnX4By0Ypq31mWydbExRLRciayR0Hp2fiay7UBw6rHaJGfGsdeSAt46g/0?wx_fmt=jpeg)
+我是一个长期的公众号博主（`东坡黑客`），分享一些有趣的故事，跟大家聊聊天，互相交流。欢迎扫码关注我：
+
+
+![](https://files.mdnice.com/user/19213/554a6406-62c6-4e11-ac1e-b17019ed6754.png)
+
 
 
 > 东坡黑客 = 认知Hack + 生活Hack + 财富Hack
