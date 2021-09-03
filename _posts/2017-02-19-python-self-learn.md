@@ -6,13 +6,13 @@ description:
 keywords: python, 自学, 资源
 ---
 
-- *注: 本文写于2015-06-03, 此后不断更新, 最后更新:2017-02-21*
+- *注: 本文写于2015-06-03, 此后不断更新, 最后更新:2021-09-03*
 
 ---
 
 
 > Python是一门可以快速上手，但也有广度和深度的编程语言  
-> matt这里整理了一些比较精华的资源，方便学习Python的同学快速上手，同时又能往自己感兴趣的方向深入
+> 老苏这里整理了一些比较精华的资源，方便学习Python的同学快速上手，同时又能往自己感兴趣的方向深入
 
 ## 1. 开始接触Python社区
 
@@ -47,7 +47,7 @@ keywords: python, 自学, 资源
 - [Django官方文档](https://docs.djangoproject.com/)  相对于其他技术来说，django的官方文档是可读性非常好的，推荐阅读
 
 ## 5. 后续对Python的进一步学习
-- [《Python进阶》](http://py.eastlakeside.cn/) 是我参与的用心翻译的一本书, 很不错
+- [《Python进阶》](http://py.eastlakeside.cn/) 是我和小伙伴们一起用心翻译的一本书, 很不错
 - [《Fluent Python》](https://github.com/fluentpython/example-code) 这本书评价很高, 值得学习
 
 ---
