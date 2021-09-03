@@ -22,14 +22,20 @@ keywords: 身心富足， 软件工程师， 创业
 
 他的嘴巴张的很大，声音很高，引得旁边的邻居都看到我这边来了，  
 俺老苏这个小区，每栋楼都有一个保安，只要进出就能碰到，现在我每天工作日上班时间还在闲庭信步进出小区，被他敏感地发现了，  
-我心想：不上班不行吗，老子最近不上班，爽翻，巴适得板，![](https://mmbiz.qpic.cn/mmbiz_png/PA0zahD84YQ3Vou1ng4icVjVSxicep5ygiaSZf1TOKUBibAw4YTQhRLraHV4ictFdD0ic85ESJ2XvabLVHicGpw0D4IFw/640?wx_fmt=png)  
+我心想：不上班不行吗，老子最近不上班，爽翻，巴适得板，
+
+![](https://files.mdnice.com/user/19213/a7c3a1fc-27a9-464c-85ab-5c01f439a420.png)
+
 可保安大叔严肃的样子，好像在问，**你天天不上班，不像个正经人，不会是在做什么坏事吧，很坏很坏的那种**  
 
 ### 二）我该怎么巧妙地表示我没干坏事
 
 其实我本来是个正经人的，我在腾讯金山虾皮平安，还有外企和创业公司都干过，而且是个努力工作的优秀员工。**十二年时间七进七出，其中2家世界五百强，6家上市公司**，（没骗你，这是我的职场档案<https://www.linkedin.com/in/mattsu/>），
 
-各位看官你品你细品，一个程序员如何在35岁大限之前完成7次全身进退，没有不怕折腾的胆魄，谁有精力七次去适应不同的领导同事和公司文化？能做到的看官请给俺留言，俺敬你一杯 😇![](https://mmbiz.qpic.cn/mmbiz_png/PA0zahD84YQ3Vou1ng4icVjVSxicep5ygiaqXIrJJAaGfjQibAlVl9YEYrZfrxxHqKPibm74L8ytJtsmriaKQy2LIPbw/640?wx_fmt=png)  
+各位看官你品你细品，一个程序员如何在35岁大限之前完成7次全身进退，没有不怕折腾的胆魄，谁有精力七次去适应不同的领导同事和公司文化？能做到的看官请给俺留言，俺敬你一杯 😇
+
+![](https://files.mdnice.com/user/19213/1c92303a-662c-4197-add0-b2e29fd4de41.jpg)
+
 俺老苏也不想着急再跑到一个新公司，再重新证明自己 ---- 哥们这都证明七回了。。。  
 那还不如趁这个间歇期，尝试**做点爱做一直没做的事情**。  
 
@@ -50,8 +56,17 @@ keywords: 身心富足， 软件工程师， 创业
 
 ### 四）想不慌都不行
 
-这三个月，我一面在坚定地做爱做的事，一面受到媳妇，家人，同事同学，还有邻居甚至保安大哥的灵魂拷问，大家都非常关切俺有没有上班。。。![](https://mmbiz.qpic.cn/mmbiz_png/PA0zahD84YQo0icQqRzSgo0HvJ40cICt9k3Gxx2bb0cn1oZJt9cffc7wdibBL8Dg85ib5xhFpZvygAgBYFiamTdWSg/640?wx_fmt=png)  
-为了不受这份慌，给各位年轻的看官们建议：**“猥琐发育，别浪”，**前期还是要好好努力地积累自己的才华，好好抓住去各种厂里锻炼的机会，份工压定要保住。**![](https://mmbiz.qpic.cn/mmbiz_png/PA0zahD84YQ3Vou1ng4icVjVSxicep5ygiamPqicvYuALtySRaOXeULufJoP1g6VFA7twYK7hNxHz4uX1QdRo4ZooQ/640?wx_fmt=png)**
+这三个月，我一面在坚定地做爱做的事，一面受到媳妇，家人，同事同学，还有邻居甚至保安大哥的灵魂拷问，大家都非常关切俺有没有上班。。。
+
+
+![](https://files.mdnice.com/user/19213/fb5dfb75-7f9c-4b8a-897a-cda35142291f.png)
+
+
+为了不受这份慌，给各位年轻的看官们建议：**“猥琐发育，别浪”，**前期还是要好好努力地积累自己的才华，好好抓住去各种厂里锻炼的机会，份工压定要保住。**
+
+
+![](https://files.mdnice.com/user/19213/406b7f98-a55b-4192-aa86-5636b2bd228d.jpg)
+
 
 **但是，** 
 

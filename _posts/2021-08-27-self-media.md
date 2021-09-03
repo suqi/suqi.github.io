@@ -36,7 +36,10 @@ keywords: 身心富足， 软件工程师， 创业
 
 ### 三）来，上产品架构
 
-基于「万事皆可Hack」的思维，我把东坡黑客设计成了一个用于Hack人生程序以实现身心富足的产品：![](https://mmbiz.qpic.cn/mmbiz_png/PA0zahD84YQev6SxpLaYuIESBrFubW2bnKyXkqvian5OsibTZxhO9EL2JvKiaYcI5xsP0lzPCmI4q2at2ibIW5ev1g/640?wx_fmt=png)
+基于「万事皆可Hack」的思维，我把东坡黑客设计成了一个用于Hack人生程序以实现身心富足的产品：
+
+![](https://files.mdnice.com/user/19213/9a3cd9e6-8e65-44e5-b782-45440f390eec.png)
+
 
 画完我问了问架构师老同事，说俺这产品架构看看咋样，只见架构师说：
 
