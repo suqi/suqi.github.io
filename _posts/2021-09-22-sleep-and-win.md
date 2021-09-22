@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hack your life: 如何让人生，确定性的躺赢
+title: Hack your life - 如何让人生，确定性的躺赢
 categories: [Hack认知]
 description: 
 keywords: 身心富足, 软件工程师, 创业, 人生
