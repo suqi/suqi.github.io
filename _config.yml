@@ -71,6 +71,10 @@ navs:
     label: 译作《Python进阶》
     target: _blank
   -
+    href: https://pro.eastlakeside.cn
+    label: 《生产力》
+    target: _blank
+  -
     href: /about/
     label: 关于
 
