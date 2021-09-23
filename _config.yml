@@ -41,8 +41,8 @@
 baseurl:
 url: https://eastlakeside.cn
 date_format: "ordinal"
-title: 一只特立独行的苏
-subtitle: "代码之外，实现身心自由"
+title: 东坡黑客
+subtitle: "一只特立独行的苏，代码之外，实现身心自由"
 description: ""
 keywords: matt su, 大牙马特, 马特苏, 老苏, dphacker, suqi, qisuker
 favicon: /favicon.ico
@@ -53,7 +53,7 @@ side_bar_repo_limit: 3
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 老苏
+author: 特能苏
 organization: EastLakeSide
 organization_url: https://github.com/eastlakeside
 location: Zhuhai, China
