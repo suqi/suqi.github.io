@@ -13,14 +13,14 @@ permalink: /about/
 
 我是一枚前腾讯金山虾皮平安的软件工程师，在挨踢互联网各大厂七进七出实现了原始积累，致力于代码之外实现身心富足。
 
-我是一个长期的公众号博主（`东坡黑客`），分享一些有趣的故事，跟大家聊聊天，互相交流。欢迎扫码关注我：
+我是一个长期的公众号博主（[<东坡黑客>](https://mp.weixin.qq.com/s/rwBIqYbjfznmdUyhnu4Pzw)），分享一些有趣的故事，跟大家聊聊天，互相交流。欢迎扫码关注我：
 
 
 ![](https://files.mdnice.com/user/19213/554a6406-62c6-4e11-ac1e-b17019ed6754.png)
 
 
 
-> 东坡黑客 = 认知Hack + 生活Hack + 财富Hack
+> 东坡黑客 = 认知Hack + 生活Hack + 财富Hack  
 > 以黑客的角度来实现身心富足，用简单的技术方法来科学地Hack看似复杂的人生问题：认知升级->人生进阶->财富自由。
 
 
@@ -32,9 +32,10 @@ permalink: /about/
 
 
 ## 我的作品
-- 我的公众号：<东坡黑客>，以黑客精神来实现身心富足。
-- 译作[《《Python进阶》》](http://py.eastlakeside.cn/)
+- 我的公众号：[<东坡黑客>](https://mp.weixin.qq.com/s/rwBIqYbjfznmdUyhnu4Pzw)，以黑客精神来实现身心富足。
+- 译作[《Python进阶》](http://py.eastlakeside.cn/)
 	- 这是一本和社区小伙伴们一起用心翻译的良心之作
+- 主导开源作品[《绝妙的个人生产力（Awesome Productivity 中文版）》](http://pro.eastlakeside.cn/)
 
 
 ## 联系我
@@ -46,6 +47,7 @@ permalink: /about/
     - 这里有我的所有项目
 * V2EX: [@qisuker](https://www.v2ex.com/member/qisuker)
     - 这里有我在V站的问答
+* WeChat: sudojade
 
 
 ## 对此博客的建议
