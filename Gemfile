@@ -1,7 +1,6 @@
 source "https://rubygems.org" 
 # source "https://gems.ruby-china.org/"  # 本地安装时临时使用
 
-gem 'github-pages', '>=104', group: :jekyll_plugins
 
 # ------ below is default ---------
 # ruby RUBY_VERSION
@@ -20,13 +19,17 @@ gem 'github-pages', '>=104', group: :jekyll_plugins
 
 # # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # # uncomment the line below. To upgrade, run `bundle update github-pages`.
-# # gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
-# # If you have any plugins, put them here!
-# group :jekyll_plugins do
-#    gem "jekyll-feed", "~> 0.6"
-# end
+# If you have any plugins, put them here!
+group :jekyll_plugins do
+   gem "jekyll-feed", "~> 0.6"
+   gem "jekyll-mentions"
+   gem "kramdown-parser-gfm"
+   gem "webrick"
+end
 
 # # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
 
