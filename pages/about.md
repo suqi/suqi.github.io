@@ -2,25 +2,25 @@
 layout: page
 title: About
 description: Beautiful Things on Beautiful Tech.
-keywords: Matt Su, 苏琦, 东坡黑客
+keywords: Matt Su, 苏琦, 葱头黑客
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-大家好， 我是 **一只特立独行的苏** (aka, Matt, 大牙马特, 特能苏)，
+大家好， 我是 **大葱头** (aka, Matt, 大牙马特)，
 
 
 我是一枚前腾讯金山虾皮平安的软件工程师，本博客坚持书海淘金提升认知精进人生。
 
-我是一个长期的公众号博主（[东坡黑客](https://mp.weixin.qq.com/s/rwBIqYbjfznmdUyhnu4Pzw)），分享一些有趣的故事，跟大家聊聊天，互相交流。欢迎扫码关注我：
+我是一个长期的公众号博主（[葱头黑客](https://mp.weixin.qq.com/s/rwBIqYbjfznmdUyhnu4Pzw)），分享一些有趣的故事，跟大家聊聊天，互相交流。欢迎扫码关注我：
 
 
 ![](https://files.mdnice.com/user/19213/554a6406-62c6-4e11-ac1e-b17019ed6754.png)
 
 
 
-> 东坡黑客 = 认知Hack + 生活Hack + 财富Hack  
+> 葱头黑客 = 认知Hack + 生活Hack + 财富Hack  
 > 以黑客的角度来实现身心富足，用简单的技术方法来科学地Hack看似复杂的人生问题：认知升级->人生进阶->财富自由。
 
 
@@ -32,7 +32,7 @@ permalink: /about/
 
 
 ## 我的作品
-- 我的公众号：[东坡黑客](https://mp.weixin.qq.com/s/rwBIqYbjfznmdUyhnu4Pzw)，以黑客精神来实现身心富足。
+- 我的公众号：[葱头黑客](https://mp.weixin.qq.com/s/rwBIqYbjfznmdUyhnu4Pzw)，以黑客精神来实现身心富足。
 - 译作[《Python进阶》](http://py.eastlakeside.cn/)
 	- 这是一本和社区小伙伴们一起用心翻译的良心之作
 - 主导开源作品[《绝妙的个人生产力（Awesome Productivity 中文版）》](http://pro.eastlakeside.cn/)
